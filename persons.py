@@ -1,0 +1,7 @@
+name = input("What's your name? ")  
+age = int(input("Hello! " + name + ", enter your age: "))
+salary = int(input("Hello! " + name + ", enter your salary: "))
+print("These are your details:")
+print("Name:", name)
+print("Age:", age)
+print("Salary:", salary)
