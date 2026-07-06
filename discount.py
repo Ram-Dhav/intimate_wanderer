@@ -9,3 +9,5 @@ elif discount_percentage < 100:
     final_amount = (marked_price - discount)
     print("The discount is: " , discount)
     print("The final amount after applying discount is, $" , final_amount , name)
+
+print("Thank you for shopping with us, " , name)
