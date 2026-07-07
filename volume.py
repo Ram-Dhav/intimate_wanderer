@@ -1,0 +1,7 @@
+name = input("Hello! What is your name? ")
+length = float(input(f"Hello {name}, enter the length of the cuboid: "))
+width = float(input(f"Okay {name}, enter the width of the cuboid: "))
+height = float(input(f"Okay {name}, enter the height of the cuboid: "))
+vol = (length * width * height)
+print(f"The volume of the cuboid is {vol} , {name}")
+print(f"Thank you for using the program, {name}. Have a great day!")
