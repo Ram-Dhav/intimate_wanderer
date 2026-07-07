@@ -2,17 +2,14 @@
 
 This is where i do all my _school *Python*_ projects
 You think this is interesting?
-Well, check out all my projects. I'm sure they're not much, but that's my best ever "*yet*"
+Well, check out all my projects. I'm sure they're not much, but that's my best ever "*yet*". 
 
 Thanks for reading this.
 
-If you're interseted in me, check out my other repo,  THE *Ganga Analysis Project* 
+If you're interseted in me, check out my other repo,  THE *Ganga Analysis Project*
 
-https://github.com/sriram-dhavala/Ganga-analysis
+https://github.com/Ram-Dhav/Ganga-analysis
 
-You can also see my analysis of the *Ganga* here - 
-
-https://github.com/sriram-dhavala/Ganga-analysis/blob/master/01-Load-And-Analyze.ipynb
 
 Toodles! See you later!
 
