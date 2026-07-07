@@ -10,6 +10,10 @@ If you're interseted in me, check out my other repo,  THE *Ganga Analysis Projec
 
 https://github.com/sriram-dhavala/Ganga-analysis
 
+You can also see my analysis of the *Ganga* here - 
+
+https://github.com/sriram-dhavala/Ganga-analysis/blob/master/01-Load-And-Analyze.ipynb
+
 Toodles! See you later!
 
 ✌️
