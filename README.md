@@ -1,4 +1,4 @@
-# School_project
+# intimate_wanderer
 
 This is where i do all my _school *Python*_ projects
 You think this is interesting?
@@ -10,6 +10,6 @@ If you're interseted in me, check out my other repo,  THE *Ganga Analysis Projec
 
 https://github.com/sriram-dhavala/Ganga-analysis
 
-Toodles!
+Toodles! See you later!
 
 ✌️
