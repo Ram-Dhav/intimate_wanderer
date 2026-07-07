@@ -6,7 +6,7 @@ Well, check out all my projects. I'm sure they're not much, but that's my best e
 
 Thanks for reading this.
 
-If you're interseted in me, cehck out my other repo, a *Ganga Analysis Project*
+If you're interseted in me, check out my other repo,  THE *Ganga Analysis Project*
 
 Toodles!
 
